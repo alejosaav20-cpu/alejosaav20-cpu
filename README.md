@@ -2,8 +2,8 @@
 <img width="736" height="414" alt="7e94f6d3fae58ce48514a098429eb77c" src="https://github.com/user-attachments/assets/c6f657bc-eff7-46ad-9852-49e2e3ffbc1c" />
 
 
-### 👨‍🎓system engineering student 
-### Universidad de la costa. barranquilla, colombia 
+### 👨‍🎓System Engineering Student 
+### Universidad de la costa. Barranquilla, Colombia 
 
 ## 🛠 Skills
 python...
