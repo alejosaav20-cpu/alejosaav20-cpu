@@ -3,7 +3,7 @@
 
 
 ### 👨‍🎓system engineering student 
-### Umiversidad de la costa. barranquilla, colombia 
+### Universidad de la costa. barranquilla, colombia 
 
 ## 🛠 Skills
 python...
